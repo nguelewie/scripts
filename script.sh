@@ -2,9 +2,9 @@
 
 
 #Description: Script to display system info
-#Author: Serge
+#Author: Zidane
 #date July 2020
-
+#Commands##
 
 lscpu
 nproc
